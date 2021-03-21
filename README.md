@@ -54,12 +54,10 @@ This script will run on Chrome so ChromeDriver should be downloaded.
 1. Download the rf-shop-the-look, https://github.com/jocelangkico/rf-shop-the-look
 2. Extract the zip file   
 2. Open command prompt and navigate to the folder path (e.g. C:/Users/<username>/Downloads)
-3. Run the command:
+3. Run the command below to run the test automation script in Chrome browser
    
    ```
    robot -d results rf-shop-the-look-master/tests/AddProductToWishlist.robot
    ```
-   
-This will run the test automation script. Chrome browser will be opened then steps will be executed.
    
 4. To view the test result, go the **rf-shop-the-look-master/Results** folder and open <i>report.html</>
