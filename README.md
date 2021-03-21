@@ -5,7 +5,7 @@ To run the script on Windows, following are needed to be installed:
 - Robotframework SeleniumLibrary
 - Selenium Webdriver
 
-<br>
+<br/>
 **Install Python and PIP**
 1. Download installer for Python 3.9.2 (Windows), go to https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
 2. Run python installer as Administrator
@@ -16,7 +16,7 @@ To run the script on Windows, following are needed to be installed:
    ```
    python --version
    ```
-</br>
+
 <br>
 **Install Robot Framework and SeleniumLibrary**
 1. Open command prompt as Administrator and install Robotframework
