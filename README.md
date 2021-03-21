@@ -11,21 +11,26 @@ To run the script on Windows, following are needed to be installed:
 3. Check "Add Python 3.9 to PATH"
 4. Click "Install Now"
 5. Open command prompt as Administrator, navigate to the installation path and check python is installed
+   
    ```
    python --version
    ```
 
 **Install Robot Framework and SeleniumLibrary**
 1. Open command prompt as Administrator and install Robotframework
+    
     ```
     pip install robotframework
     ```
 
 2. Then install SeleniumLibrary
+    
     ```
     pip install robotframework-seleniumlibrary
     ```
+    
 3. Verify installation by running the command:
+    
     ```
     pip list
     ```
@@ -41,7 +46,7 @@ This script will run on Chrome so ChromeDriver should be downloaded.
 
 # Run Test Script
 
-1. Download the Shop-The-Look folder (https://github.com/jocelangkico/Shop-The-Look)
+1. Download the rf-shop-the-look, https://github.com/jocelangkico/rf-shop-the-look
 2. Extract the zip file   
 2. Open command prompt and navigate to the folder path (e.g. C:/Users/<username>/Downloads)
 3. Run the command:
@@ -50,4 +55,4 @@ This script will run on Chrome so ChromeDriver should be downloaded.
    ```
 This will run the test automation script. Chrome browser will be opened then steps will be executed.
    
-4. To view the test result, go the rf-shop-the-look-master/Results folder and open <i>report.html</>
+4. To view the test result, go the **rf-shop-the-look-master/Results** folder and open <i>report.html</>
