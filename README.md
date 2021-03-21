@@ -60,4 +60,4 @@ This script will run on Chrome so ChromeDriver should be downloaded.
    robot -d results rf-shop-the-look-master/tests/AddProductToWishlist.robot
    ```
    
-4. To view the test result, go the **rf-shop-the-look-master/Results** folder and open <i>report.html</>
+4. To view the test result, go the **rf-shop-the-look-master/Results** folder and open <i>report.html<i/>
