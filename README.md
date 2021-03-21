@@ -16,7 +16,7 @@ To run the script on Windows, following are needed to be installed:
    ```
    python --version
    ```
-
+</br>
 <br>
 **Install Robot Framework and SeleniumLibrary**
 1. Open command prompt as Administrator and install Robotframework
@@ -36,7 +36,7 @@ To run the script on Windows, following are needed to be installed:
     ```
     pip list
     ```
-
+</br>
 <br>
 **Install Selenium Webdriver**
 
@@ -46,7 +46,7 @@ This script will run on Chrome so ChromeDriver should be downloaded.
 2. Add **C:/bin** to PATH.
 3. Download ChromeDriver for Windows, go to https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_win32.zip
 4. Extract zip file and copy <i>chromedriver.exe</i> to **C:/bin**
-
+</br>
 
 # Run Test Script
 
